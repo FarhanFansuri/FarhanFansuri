@@ -4,7 +4,7 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 
 Skills: ANGULAR  / PHP / HTML / CSS /JAVASCRIPT
 
-- 🌱 I’m currently learning Flutter, VUE JS, and REACT 
+- 🌱 I’m currently learning Flutter, Angular, VUE JS, and REACT JS
 - ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning spanish, japanese, and arabic for months. 
 
 
