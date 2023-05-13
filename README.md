@@ -9,9 +9,9 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhanFansuri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/mochammad-farhan-fansuri)
-<p align="left">
-<a href="https://dribbble.com/FarhanFanS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="farhanfans" height="30" width="40" /></a>
-</p>
+
+  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg)' alt='dribbble' height='40'>](https://dribbble.com/FarhanFanS)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanfansuri&label=Profile%20views&color=0e75b6&style=flat" alt="farhanfansuri" /> </p>
 
