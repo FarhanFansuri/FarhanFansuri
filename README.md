@@ -7,6 +7,7 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 - 🌱 I’m currently learning Flutter, Angular, VUE JS, and REACT JS
 - ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning spanish, japanese, and arabic for months. 
 
+<h3 align="left">Connect with me:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhanFansuri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/mochammad-farhan-fansuri)
 
@@ -14,7 +15,6 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanfansuri&label=Profile%20views&color=0e75b6&style=flat" alt="farhanfansuri" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
