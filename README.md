@@ -2,7 +2,7 @@
 ### A passionate AI and SoftDev developer from Indonesia
 #### I am a student at UPN "Veteran" Yogyakarta
 I am able to handle multiple tasks on a daily basis. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills.
-ilaningn aja deh
+
 
 - 🌱 I’m currently learning React js, Django, Express, Nodejs, Tensorflow, Golang
 - ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning japanese for months. 
