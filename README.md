@@ -4,7 +4,7 @@
 I am able to handle multiple tasks on a daily basis. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills.
 
 
-- 🌱 I’m currently learning React js, Django, Express, Nodejs, Tensorflow, Golang
+- 🌱 I’m currently learning Nestjs and Golang
 - ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning japanese for months. 
 - https://farhanfansuri.netlify.app/
 <h3 align="left">Connect with me:</h3>
