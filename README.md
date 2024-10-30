@@ -5,7 +5,7 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 
 
 - 🌱 I’m currently learning Nestjs and Golang
-- ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning japanese for months. 
+- ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning japanese for months
 - https://farhanfansuri.netlify.app/
 <h3 align="left">Connect with me:</h3>
 
