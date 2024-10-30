@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Farhan Fansuri
 ### A passionate AI and Software developer from Indonesia
 #### I am a student at UPN "Veteran" Yogyakarta
-I am able to handle multiple tasks on a daily basis. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills.
+I am able to handle multiple tasks on a daily basis. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills
 
 
 - 🌱 I’m currently learning Nestjs and Golang
