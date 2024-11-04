@@ -13,7 +13,7 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanfansuri&label=Profile%20views&color=FFFFFF&style=flat" alt="farhanfansuri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanfansuri&label=Profile%20views&color=0e75b6&style=flat" alt="farhanfansuri" /> </p>
 
 <h2 align="left">I code with</h2>
 
@@ -28,7 +28,10 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <div style="background-color: white; display: inline-block; padding: 5px; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</div>
+
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img width="12" />
