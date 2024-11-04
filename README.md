@@ -13,7 +13,7 @@ I am able to handle multiple tasks on a daily basis. I am a dependable person wh
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanfansuri&label=Profile%20views&color=0e75b6&style=flat" alt="farhanfansuri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanfansuri&label=Profile%20views&color=FFFFFF&style=flat" alt="farhanfansuri" /> </p>
 
 <h2 align="left">I code with</h2>
 
