@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Farhan Fansuri
-### A passionate AI and Software developer from Indonesia
+### A passionate Cybersecurity, Linux, and Software developer from Indonesia
 #### I am a student at UPN "Veteran" Yogyakarta
 I am able to handle multiple tasks on a daily basis. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills
 
 
-- 🌱 I’m currently learning Nestjs and Golang
+- 🌱 I’m currently learning Node js and Golang
 - ⚡ Fun fact: I love learning languages. I can speak indonesian and english fluently and i have been learning japanese for months
 - https://farhanfansuri.netlify.app/
 <h3 align="left">Connect with me:</h3>
